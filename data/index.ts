@@ -43,16 +43,16 @@ export const seoData = {
   twitterDescription: `Fian's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Alfian Blog | Fian's Blog`,
   image:
     'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
+  mySite: ' ',
   twitterHandle: '@CrashC61449',
   mailAddress: 'alfianfebri200@gmail.com',
 }
 
 export const socialLinks = {
-  githubLink: 'https://github.com/crashxhack77',
+  githubLink: 'https://github.com/crashxhack777',
   linkedinLink: 'https://id.linkedin.com/in/alfian-febriansyah-45a543365',
   twitterLink: 'https://twitter.com/CrashC61449',
-  stackoverflowLink: 'https://stackoverflow.com/users/16781395/nur-riyad',
+  stackoverflowLink: 'https://twitter.com/CrashC61449',
 }
 
 export const siteMetaData = [
