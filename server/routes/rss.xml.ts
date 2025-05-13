@@ -1,6 +1,6 @@
 import { Feed } from 'feed'
 
-const basePath = 'https://nurriyad.com'
+const basePath = 'https://alfian16.netlify.app/#about'
 
 export default defineEventHandler(async (event) => {
   setHeader(event, 'content-type', 'text/xml')
